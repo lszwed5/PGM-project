@@ -1,0 +1,12 @@
+torch
+torchvision
+wandb
+kaggle
+numpy
+PIL
+fastdownload
+matplotlib
+diffusers
+tqdm
+pytorch-fid
+torchmetrics[image]
